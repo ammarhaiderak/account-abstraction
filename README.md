@@ -1,11 +1,16 @@
 Implementation of contracts for [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337) account abstraction via alternative mempool.
 
-# Resources
 
-[Vitalik's post on account abstraction without Ethereum protocol changes](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
+### ERC20-Paymaster
 
-[Discord server](http://discord.gg/fbDyENb6Y9)
+https://github.com/ammarhaiderak/account-abstraction/blob/feat/custom-usdt-paymaster/contracts/core/ERC20Paymaster.sol
 
-[Bundler reference implementation](https://github.com/eth-infinitism/bundler)
 
-[Bundler specification test suite](https://github.com/eth-infinitism/bundler-spec-tests)
+### Credits:
+eth-infinitism
+
+
+This repo has been cloned from eth-infinitism: 
+https://github.com/eth-infinitism/account-abstraction/tree/releases/v0.6
+
+
